@@ -1,0 +1,13 @@
+
+GitHub is a code repository and collaboration platforms mainly used by developers.GitHub focus on code+automation +collaboration.
+
+Jira is a project management and issue tracking tool widely used by teams.Jira focus on planning+tracking+reporting.
+
+  GitHub monitor project like jira:
+
+especially from a development and execution perspective. Using GitHub Issues to create tasks and bugs, GitHub Projects  to track To Do, In Progress, and Done stages, Milestones to manage releases, and Pull Requests to review and approve work, GitHub provides full visibility into project progress. Team activity can be monitored through commits, issue status, pull request history, and deployment logs via GitHub Actions, giving real-time insight into who is working on what and how the project is moving forward. While Jira is stronger in management-level reporting, GitHub effectively monitors the complete development lifecycle in a single platform.
+
+Deployment:
+
+automatically building, testing, and releasing an application whenever code is pushed to a GitHub repository, using GitHub Actions. When a developer commits code, a predefined workflow runs on a virtual machine  to compile the code, run tests, and deploy the application to a server, cloud platform, or container environment. This removes manual work, reduces errors, and ensures faster, reliable releases. Unlike Jira, which only tracks deployment status, GitHub actually executes the deployment, making it a core tool for modern DevOps and real-world software delivery.
+Jira only tracks deployment status
